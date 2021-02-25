@@ -19,7 +19,8 @@ Here come the links to all the materials:
 - the recording of the workshop - https://www.crowdcast.io/e/red-hat-openshift-world (available right after the live session ends)
 - join me on discord for 1:1 - https://discord.gg/bFqcts2c (the link is valid only till 2/26/2021)
 
-Follow Bradston on Twitter here: 
+Follow Bradston on Twitter here: https://twitter.com/BradstonDev
+
 Follow Marek on Twitter here: https://twitter.com/blumareks
 
 
