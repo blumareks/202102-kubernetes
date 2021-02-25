@@ -6,7 +6,7 @@ These instructions: http://ibm.biz/202102-kubernetes-labs
 ## check out these links
 Here come the links to all the materials:
 - getting your free LITE IBM Cloud ID - http://ibm.biz/202102-kubernetes
-- instructions for the lab with Docker  -  http://ibm.biz/202101-kube-docker 
+- instructions for the lab with Docker  -  http://ibm.biz/202102-kube-docker 
 - instructions for lab 1
   - claim your cluster: (expired) http://ibm.biz/202102-kubernetes-cluster key: **oslab** (see some hints on doing it: https://ibmdevelopersf.gitbook.io/red-hat-worldtour/claiming-your-red-hat-openshift-cluster-for-this-workshop )
   - image -> cluster - https://github.com/IBM/openshift-on-ibm-cloud-workshops/blob/master/6-existing-image.md
