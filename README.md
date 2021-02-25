@@ -19,8 +19,8 @@ Other materials:
 - the friendly link to a blog post about running in the cloud a container from an image: https://medium.com/zero-equals-false/running-a-microservice-on-kubernetes-straight-from-a-container-image-3eb8593bc94c?sk=7cc4a9ab4cd8f88f3cae9395b2945165
 - the link to a blog post about running a container straight from a github repo (check the picture with containers from my home town - Gdynia) - https://blumareks.medium.com/running-a-microservice-containers-on-kubernetes-straight-from-a-github-ff73047e877b
 - the survey - http://ibm.biz/202102-kube-survey
-- the recording of the workshop - https://www.crowdcast.io/e/red-hat-openshift-world (available right after the live session ends)
-- join me on discord for 1:1 - https://discord.gg/bFqcts2c (the link is valid only till 2/26/2021)
+- the recording of the workshop - https://www.crowdcast.io/e/red-hat-openshift-world-2 (available right after the live session ends)
+- join us on discord for general discussion and 1:1s - https://discord.gg/xCpmfJ2h (the link is valid only till 3/1/2021)
 
 Follow Bradston on Twitter here: https://twitter.com/BradstonDev
 
